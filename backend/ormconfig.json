@@ -1,0 +1,12 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "your_username",
+    "password": "1995taka",
+    "database": "restaurant_db",
+    "synchronize": true,
+    "logging": false,
+    "entities": ["src/entity/**/*.ts"]
+  }
+  
